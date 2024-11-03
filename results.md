@@ -1,7 +1,7 @@
 ## Test Results
 
 With the compiler optimization level set to O1, the timing of the array copy
-using a manual loop look horrible in comparison to a memcpy, as expected
+using a manual loop looks horrible in comparison to a memcpy, as expected
 by intuition.
 
 	timing manual copy of varying array sizes 1,000,000 times
